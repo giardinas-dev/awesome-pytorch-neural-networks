@@ -2,8 +2,10 @@
 A collection of PyTorch Machine Learning projects, optimized for easy use with Google Colab notebooks. Covers deep learning, computer vision, and reinforcement learning with clear code and explanations to support hands-on learning.
 
 
-Technologies Used in the [Flower Recognition Project](https://colab.research.google.com/drive/1i9Da5PzQAl5oOpNxXkpAFQBRr5hh-tgB#scrollTo=Djp2h-RbBg0W)
-This project leverages advanced deep learning and computer vision techniques for automatic flower classification, specifically designed to meet the needs of GreenTech Solutions Ltd., an AgriTech company.
+Technologies Used in:
+- [Flower Recognition Project](https://colab.research.google.com/drive/1i9Da5PzQAl5oOpNxXkpAFQBRr5hh-tgB#scrollTo=Djp2h-RbBg0W)
+- [Food Recognition Project](https://colab.research.google.com/drive/1D0Oejo3A1ACf0ZcWWHPNlYlO9X9UKP57#scrollTo=E2qVTwWrvkvW)
+
 
 PyTorch Framework: The entire model training and evaluation pipeline is implemented using PyTorch, a flexible and widely adopted deep learning library. PyTorch facilitates efficient model building, GPU acceleration, and dynamic computation graphs, which are crucial for iterative experimentation and fine-tuning of neural networks.
 
